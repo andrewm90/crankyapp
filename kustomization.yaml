@@ -8,6 +8,5 @@ resources:
 - crankypv.yaml
 - crankypvc.yaml
 - crankysvc.yaml
-- crankycloudflare.yaml
-- crankycloudsecrets.yaml
+
 
